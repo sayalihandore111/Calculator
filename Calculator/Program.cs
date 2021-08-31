@@ -6,7 +6,7 @@ namespace Calculator
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("***************CALCULATOR***************");
+            Console.WriteLine("***************CALCULATOR**************");
             Console.WriteLine("1.Addition");
             Console.WriteLine("2.Substraction");
             Console.WriteLine("3.Multiplication");
